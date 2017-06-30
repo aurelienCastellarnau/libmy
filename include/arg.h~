@@ -1,0 +1,16 @@
+/*
+** arg.h for libmy_extended in /home/aurelien/Documents/Lib_etna/castel_a/libmy_extended/include
+** 
+** Made by CASTELLARNAU Aurelien
+** Login   <castel_a@etna-alternance.net>
+** 
+** Started on  Thu Feb  2 00:59:14 2017 CASTELLARNAU Aurelien
+** Last update Thu Feb  2 00:59:56 2017 CASTELLARNAU Aurelien
+*/
+
+#ifndef _ARG_H_
+# define _ARG_H_
+
+
+
+#endif /* !_ARG_H_ */
